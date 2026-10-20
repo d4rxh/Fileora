@@ -1,11 +1,18 @@
-# Fileora 📂⚡
-### Premium Native Android File Utility Suite
+<p align="center">
+  <img src="assets/logo.png" alt="Fileora Logo" width="130" style="border-radius: 28px;" />
+</p>
 
-[![Android](https://img.shields.io/badge/Platform-Android_8.0+_(API_26+)-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://android.com)
-[![Kotlin](https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
-[![Jetpack Compose](https://img.shields.io/badge/UI-Jetpack_Compose_Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)](https://developer.android.com/jetpack/compose)
-[![Build APK](https://img.shields.io/badge/CI%2FCD-GitHub_Actions_Auto_APK-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/d4rxh/Fileora/actions)
-[![Privacy](https://img.shields.io/badge/Privacy-100%25_Offline_&_Private-10B981?style=for-the-badge)](https://github.com/d4rxh/Fileora)
+<h1 align="center">Fileora 📂⚡</h1>
+<p align="center"><b>Premium Native Android File Utility Suite</b></p>
+<p align="center">Compress, convert, organize, and inspect your media and documents 100% offline.</p>
+
+<p align="center">
+  <a href="https://android.com"><img src="https://img.shields.io/badge/Platform-Android_8.0+_(API_26+)-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></a>
+  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-2.0.21-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" /></a>
+  <a href="https://developer.android.com/jetpack/compose"><img src="https://img.shields.io/badge/UI-Jetpack_Compose_Material_3-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" /></a>
+  <a href="https://github.com/d4rxh/Fileora/actions"><img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions_Auto_APK-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /></a>
+  <a href="https://github.com/d4rxh/Fileora"><img src="https://img.shields.io/badge/Privacy-100%25_Offline_&_Private-10B981?style=for-the-badge" /></a>
+</p>
 
 **Fileora** is a modern, privacy-first native Android utility application designed to compress, convert, organize, and inspect your media, documents, and archives entirely on-device. Built from the ground up with **Kotlin**, **Jetpack Compose**, and **Material 3 Expressive**.
 
