@@ -14,6 +14,36 @@
   <a href="https://github.com/d4rxh/Fileora"><img src="https://img.shields.io/badge/Privacy-100%25_Offline_&_Private-10B981?style=for-the-badge" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/d4rxh/Fileora/releases/latest/download/app-debug.apk">
+    <img src="https://img.shields.io/badge/⚡_Direct_Download-Fileora_v1.0.0.apk-6366F1?style=for-the-badge&logo=android&logoColor=white" height="38" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/d4rxh/Fileora/releases/latest">
+    <img src="https://img.shields.io/badge/📦_All_Releases-GitHub_Releases-10B981?style=for-the-badge&logo=github&logoColor=white" height="38" />
+  </a>
+</p>
+
+---
+
+## 📥 Direct APK Download & Quick Install
+
+You can download and install Fileora directly on any Android phone without going through app stores:
+
+| Package | Status | 1-Click Direct Download | Size | Compatibility |
+| :--- | :---: | :--- | :---: | :---: |
+| **Fileora v1.0.0 (Pre-Signed APK)** | 🟢 Live | [⬇️ **Download Fileora-v1.0.0.apk**](https://github.com/d4rxh/Fileora/releases/latest/download/app-debug.apk) | ~19 MB | Android 8.0+ (Oreo to Android 15) |
+| **Fileora v1.0.0 (Release Package)** | 🟢 Live | [⬇️ **Download Fileora-Release.apk**](https://github.com/d4rxh/Fileora/releases/latest/download/app-release.apk) | ~12 MB | Android 8.0+ |
+| **GitHub Releases Hub** | 🚀 Updated | [📦 **View All Releases & Assets**](https://github.com/d4rxh/Fileora/releases) | — | Universal |
+
+> ### 📱 Quick Installation Guide:
+> 1. Click on **[⬇️ Download Fileora-v1.0.0.apk](https://github.com/d4rxh/Fileora/releases/latest/download/app-debug.apk)** above directly from your phone browser.
+> 2. Once downloaded, tap the notification or open the file from your **Downloads** folder.
+> 3. If prompted by Android, enable **"Allow from this source"** for your browser or file manager.
+> 4. Tap **Install** and open **Fileora**! 100% offline with zero setup needed.
+
+---
+
 **Fileora** is a modern, privacy-first native Android utility application designed to compress, convert, organize, and inspect your media, documents, and archives entirely on-device. Built from the ground up with **Kotlin**, **Jetpack Compose**, and **Material 3 Expressive**.
 
 ---
